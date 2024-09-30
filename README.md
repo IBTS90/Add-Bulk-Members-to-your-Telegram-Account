@@ -10,3 +10,5 @@ Than on your Terminal
 python adder.py members.csv
 
 and wait for the job done.
+
+Dev by: IBTS
